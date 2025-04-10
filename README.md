@@ -79,6 +79,3 @@ Process improvement opportunities
 
 Prepared by: Venkatesh Babu Chunduri
 Data Analyst Candidate
-
-Prepared by: Venkatesh Babu Chunduri
-Data Analyst Candidate
